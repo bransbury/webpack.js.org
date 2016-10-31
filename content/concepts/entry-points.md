@@ -95,3 +95,7 @@ const config = {
 - Use `CommonsChunkPlugin` to create bundles of shared application code between each page. Multi-page applications that reuse a lot of code/modules between entry points can greatly benefit from these techniques, as the amount of entry points increase.
 
 - Set up [long-term vendor-caching](/how-to/cache) with the same plugin and techniques seen in the first example.
+
+
+[**Next, Output >**](/concepts/output)
+
