@@ -131,3 +131,6 @@ There are many plugins that webpack provides out of the box! Check out our [list
 Using plugins in your webpack config is straight-forward, however there are many use-cases that are worth discussing further.
 
 [**Learn more!**](/concepts/plugins)
+
+
+[**Next, Entry Points >**](/concepts/entry-points)
